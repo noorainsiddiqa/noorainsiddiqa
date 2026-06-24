@@ -1,8 +1,8 @@
-# Hi, I'm Noorain Siddiqa 👋
+# Hi, I'm Noorain Siddiqa N
 
 
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Software Development**.
 
@@ -12,19 +12,19 @@ My interests include developing AI-powered systems, exploring machine learning m
 
 Currently exploring:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- 🌐 Full Stack Development
-- 🧠 Data Structures & Algorithms
-- ⚙️ Software Engineering
+-  Artificial Intelligence & Machine Learning
+-  Computer Vision
+-  Full Stack Development
+-  Data Structures & Algorithms
+-  Software Engineering
 
 I believe in learning through building — experimenting with ideas, creating projects, and continuously improving my skills.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 👨‍💻 Programming Languages
+##  Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -39,7 +39,7 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+##  Artificial Intelligence & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
@@ -56,7 +56,7 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ---
 
-## 🌐 Web Development
+##  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -71,7 +71,7 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ---
 
-## 🎨 Creative & 3D Development
+##  Creative & 3D Development
 
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
@@ -84,7 +84,7 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ---
 
-## 🗄️ Databases & Backend
+##  Databases & Backend
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -95,7 +95,7 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ---
 
-## 🧰 Tools & Platforms
+##  Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -107,106 +107,9 @@ I believe in learning through building — experimenting with ideas, creating pr
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-# 🌟 Featured Projects
-
-
-## 🚗 Driver Monitoring System
-
-An AI-based computer vision project designed to monitor driver behavior and improve road safety using intelligent detection techniques.
-
-**Technologies:**
-- Python
-- Computer Vision
-- Machine Learning
-- Image Processing
-
 
 ---
 
-## 🎵 SoundSpace
-
-An AI-powered platform exploring the relationship between music, students, and social interaction.
-
-**Focus Areas:**
-- Artificial Intelligence
-- User-centered applications
-- Software Development
-
-
----
-
-## 💻 CPU Scheduling Simulator
-
-A simulation project implementing operating system scheduling algorithms.
-
-**Concepts Covered:**
-- CPU Scheduling
-- Process Management
-- Algorithm Design
-- Operating Systems
-
-
----
-
-## 🌌 Interactive 3D Developer Portfolio
-
-A fully immersive 3D portfolio website built to transform a traditional developer portfolio into an interactive digital experience.
-
-Instead of a conventional webpage, this project creates a virtual environment where users can explore different sections through a custom-designed 3D space.
-
-The portfolio combines modern frontend engineering with creative design, featuring smooth animations, interactive environments, and WebGL-powered experiences.
-
-**Technologies:**
-
-- React.js
-- Three.js
-- React Three Fiber
-- JavaScript
-- GSAP Animations
-- WebGL
-- 3D Asset Integration
-
-
-**Key Features:**
-
-- 🌐 Interactive 3D environment
-- 🎮 Game-like navigation experience
-- ✨ Smooth camera transitions and animations
-- 🖼️ Custom visual assets and textures
-- ⚡ Optimized WebGL rendering
-- 📱 Responsive interactive design
-
-
-# 📚 Currently Learning
-
-- Deep Learning
-- Advanced Machine Learning Algorithms
-- Three.js & WebGL Development
-- Interactive 3D Experiences
-- Cloud Technologies
-- Scalable Software Architecture
-
-
----
-
-# 📊 GitHub Statistics
-
-![Noorain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorainsiddiqa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorainsiddiqa&layout=compact&theme=tokyonight)
-
-
----
-
-# 🤝 Connect With Me
-
-
-<a href="https://github.com/noorainsiddiqa">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-
----
 
 ⭐ Thanks for visiting my profile!
 
